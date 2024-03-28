@@ -19,7 +19,7 @@
 
 ⛩️🏮
 
-Prazer, me chamo João 🤝, sou um desenvolvedor voltado para o BackEnd e entusiasta da área de *Inteligência Artificial*, tenho experiencia com manipulação de banco de dados *SQL Server* e elaboração de relatórios no *Crystal Reports*, gosto de trabalhar em grupo, compartilhar ideias e receber diferentes pontos de vista.
+Prazer, me chamo **João** 🤝, sou um desenvolvedor voltado para o BackEnd e entusiasta da área de *Inteligência Artificial*, tenho experiencia com manipulação de banco de dados *SQL Server* e elaboração de relatórios no *Crystal Reports*, gosto de trabalhar em grupo, compartilhar ideias e receber diferentes pontos de vista.
 Também forneço assistência técnica de *Software/Hardware*, e instalação de infraestrutura de Redes e Servidores.
 
 <details>
@@ -52,7 +52,7 @@ Também forneço assistência técnica de *Software/Hardware*, e instalação de
 <br>
 
 ## 📊 Estatísticas do Github 
-<img height='200' src='https://github-readme-stats.vercel.app/api?username=JoaoSouzaXMP&theme=radical&show_icons=true&hide_border=true&count_private=true'><img height='200' src='https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoSouzaXMP&theme=radical&show_icons=true&hide_border=true&layout=compact'>
+<img height='180' src='https://github-readme-stats.vercel.app/api?username=JoaoSouzaXMP&theme=radical&show_icons=true&hide_border=true&count_private=true'><img height='180' src='https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoSouzaXMP&theme=radical&show_icons=true&hide_border=true&layout=compact'>
 
 ## 🖥️ Meu Setup ![AMD](https://img.shields.io/badge/AMD-ED1C24?style=&logo=amd&logoColor=ffffff) ![Nvidia](https://img.shields.io/badge/NVIDIA-76B900?style=&logo=nvidia&logoColor=ffffff)
 **Processador:** Ryzen 7 5800x3D   

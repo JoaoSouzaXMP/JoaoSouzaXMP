@@ -17,33 +17,34 @@
 </p>
 <br>
 
-⛩️🏮
-
-Prazer, me chamo **João** 🤝, sou um desenvolvedor voltado para o BackEnd e entusiasta da área de *Inteligência Artificial*, tenho experiencia com manipulação de banco de dados *SQL Server* e elaboração de relatórios no *Crystal Reports*, gosto de trabalhar em grupo, compartilhar ideias e receber diferentes pontos de vista.
-Também forneço assistência técnica de *Software/Hardware*, e instalação de infraestrutura de Redes e Servidores.
+# ⛩️🏮 Olá, me chamo João! 🏮⛩️
+Sou um desenvolvedor com foco em Back-End e entusiasta da área de *Inteligência Artificial*. Tenho experiência com manipulação de banco de dados *SQL Server* e elaboração de relatórios no *Crystal Reports*. Gosto de trabalhar em grupo, compartilhar ideias e receber diferentes pontos de vista. Além disso, forneço assistência técnica de *Software/Hardware*, e realizo instalação de infraestrutura de Redes e Servidores.
 
 <details>
-<summary>Mais sobre mim</summary>
+<summary>🔍 Mais sobre mim:</summary>
 
-- 🔭 Atualmente estou jornada para criar minha própria empresa
-- 🌱 Pretendo contribuir com o avanço da humanidade com relação às IAs 🧠🤖
-- 📫 **Como entrar em contato comigo:** 
+
+- 🔭 Atualmente, estou em jornada para criar minha própria empresa.
+- 🌱 Pretendo contribuir com o avanço da humanidade em relação às IAs 🧠🤖.
+- 🎮 Hobbies: Joguei por muito tempo jogos competitivos no começo, mas hoje prefiro jogos de campanha e RPG.
+- 🌍 Viagens: Sonho em visitar o Japão e morar por lá, admiro muito o estilo arquitetônico japonês. 
+- 🎵 Música: Gosto muito diversificado.
+- 🐾 Animais de estimação: Amo gatos! 🐈‍⬛✨
+- 📫 Como entrar em contato comigo:
 
     [![whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=ffffff)](https://wa.me/5514998241199)
     [![instagram](https://img.shields.io/badge/instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=ffffff)](https://www.instagram.com/joao.souzaxmp/)
     [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/joaosouzaxmp/)
     [![outlook](https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=ffffff)](mailto:jv10-souza@hotmail.com)
     [![discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=ffffff)](https://discord.com/users/240928803969433601)
-- ⚡ **Curiosidade:**  Amo Gato 🐈‍⬛✨
-</details>
 
-🏮⛩️
+</details>
 
 ## 🎯 Tecnologias que utilizo 
 | Banner | Descrição |
 | --- | --- | 
 | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=ffffff) | Codagem |
-| ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=ffffff) ![Numpy](https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=ffffff) | Bibliotecas | 
+| ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=ffffff) ![Numpy](https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=ffffff) ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=ffffff) | Bibliotecas | 
 | ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=ffffff) ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=ffffff) ![Bootstrap](https://img.shields.io/badge/bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=ffffff) | Frameworks |
 | ![SQLServer](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=ffffff) | SQL |
 | ![GIT](https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=ffffff) ![GITHUB](https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=ffffff)| Versionamento |
@@ -55,20 +56,24 @@ Também forneço assistência técnica de *Software/Hardware*, e instalação de
 <img height='180' src='https://github-readme-stats.vercel.app/api?username=JoaoSouzaXMP&theme=radical&show_icons=true&hide_border=true&count_private=true'><img height='180' src='https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoSouzaXMP&theme=radical&show_icons=true&hide_border=true&layout=compact'>
 
 ## 🖥️ Meu Setup ![AMD](https://img.shields.io/badge/AMD-ED1C24?style=&logo=amd&logoColor=ffffff) ![Nvidia](https://img.shields.io/badge/NVIDIA-76B900?style=&logo=nvidia&logoColor=ffffff)
-**Processador:** Ryzen 7 5800x3D   
-**Placa de Vídeo:** RTX 3070 Zotac   
-**Placa-Mãe:** ASRock B450M Steel Legend  
-**Cooler:** Noctua NH-D15S Chromax Black  
-**Memória:** 48GB 3000Mhz (2x8GB + 2x16GB)  
-**Armazenamento:** SSD XPG S41 TUF 256GB + SSD Kingspec Sata M.2 2TB     
-**Fonte:** Deepcool DA500    
-**Gabinte:** Pichau Gadit X RTB   
-**Cadeira:** Pichau Gier Branca   
-**Fone:** JBL Quantum 800   
-**Monitor:** Redragon Citrine 200Hz Ultrawide Curvo   
-**Mouse:** Redragon Cobra Cherry   
-**Mouse Pad:** Redragon Kunlun Cherry   
-**Teclado:** Redragon Dark Avenger   
+### Hardware
+- **Processador:** Ryzen 7 5800x3D   
+- **Placa de Vídeo:** RTX 3070 Zotac   
+- **Placa-Mãe:** ASRock B450M Steel Legend  
+- **Cooler:** Noctua NH-D15S Chromax Black  
+- **Memória:** 48GB 3000Mhz (2x8GB + 2x16GB)  
+- **Armazenamento:** SSD XPG S41 TUF 256GB + SSD Kingspec Sata M.2 2TB + HD Externo 1TB
+- **Fonte:** Deepcool DA500    
+- **Gabinete:** Pichau Gadit X RTB   
+
+### Periféricos
+- **Cadeira:** Pichau Gier Branca   
+- **Fone:** JBL Quantum 800   
+- **Monitor:** Redragon Citrine 200Hz Ultrawide Curvo
+- **Suporte:** ELG F80N
+- **Mouse:** Redragon Cobra Cherry   
+- **Mouse Pad:** Redragon Kunlun Cherry   
+- **Teclado:** Redragon Dark Avenger
 
 <br>
 
